@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require "rubygems"
+require 'code_in_docs'
+CodeInDocs::App.new().main(ARGV[0])
